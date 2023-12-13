@@ -22,6 +22,5 @@ Lancez votre API avec le commande `npm run start`
 
 ## 5- Utilisation API Publique
 
-Si vous souhaitez utiliser l'api publique que j'ai mis en ligne voici le lien :  
-
+Si vous souhaitez utiliser l'api publique que j'ai mise en ligne voici le lien :  
 http://51.178.29.201:3005/monsters/
