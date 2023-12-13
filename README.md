@@ -4,7 +4,8 @@
 Ajoutez les fichiers dans un dossier sur votre machine.
 
 ## 2-Modifier le PORT
-Modifiez le **PORT** dans le **fichier .env** 
+Modifiez le **PORT** dans le **fichier .env**  
+
 *(le PORT 3000 est un port par défaut)*
 
 ## 3-Ajouter les dépendances
