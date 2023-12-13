@@ -10,10 +10,10 @@ Modifiez le **PORT** dans le **fichier .env**
 ## 3-Ajouter les dépendances
 Ajoutez les différentes dépendances pour faire fonctionner le projet
 
-    - Installez cors : `npm i cors`
-    - Installez dotenv : `npm i dotenv`
-    - Installez express : `npm i express`
-    - Installez nodemon : `npm i nodemon`
+- Installez cors : `npm i cors`
+- Installez dotenv : `npm i dotenv`
+- Installez express : `npm i express`
+- Installez nodemon : `npm i nodemon`
 
 
 ## 4-Lancer l'API
